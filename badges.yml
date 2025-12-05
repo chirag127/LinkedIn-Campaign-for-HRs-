@@ -1,0 +1,35 @@
+# Badges Configuration
+
+# These badges are intended to be used in README.md and other documentation files.
+# Each badge follows the Shields.io format and points to relevant project resources.
+# Username: chirag127
+# Repository: RecruitPulse-LinkedIn-Data-Scraper-CLI-Python
+# Badge Style: flat-square
+
+badges:
+  - name: "Build Status"
+    icon: "github actions"
+    url: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python/actions/workflows/ci.yml"
+    link: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python/actions/workflows/ci.yml"
+    style: "flat-square"
+  - name: "Code Coverage"
+    icon: "codecov"
+    url: "https://codecov.io/gh/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python"
+    link: "https://codecov.io/gh/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python"
+    style: "flat-square"
+  - name: "Tech Stack"
+    icon: "github"
+    value: "Python, Selenium, Ruff"
+    url: "https://www.python.org/"
+    link: "https://www.python.org/"
+    style: "flat-square"
+  - name: "License"
+    value: "CC BY-NC 4.0"
+    url: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python/blob/main/LICENSE"
+    link: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python/blob/main/LICENSE"
+    style: "flat-square"
+  - name: "GitHub Stars"
+    icon: "github"
+    url: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python"
+    link: "https://github.com/chirag127/RecruitPulse-LinkedIn-Data-Scraper-CLI-Python"
+    style: "flat-square"
